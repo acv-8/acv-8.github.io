@@ -1,8 +1,13 @@
-
+body{
+    background-color: seashell;
+}
 svg{
     color:black;
 }
-#Michel {
-    .me-5
-  }
-  
+h1{
+    font-style: oblique;
+    text-align: center;
+}
+#Michel{
+    background-color: rgb(252, 231, 215);
+}
